@@ -1,7 +1,7 @@
 
 
 
-# Hi there, I'm [Vyshnave] 👋
+# Hi there, I'm Vyshnave 👋
 
 ![Profile Banner](https://your-image-link.com/banner.jpg)
 
